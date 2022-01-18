@@ -23,7 +23,7 @@ namespace JotunnModStub
 
         public const string PluginGUID = "com.maynard.lightningmead";
         public const string PluginName = "LightningMead";
-        public const string PluginVersion = "0.0.1";
+        public const string PluginVersion = "0.0.2";
 
         // Use this class to add your own localization to the game
         // https://valheim-modding.github.io/Jotunn/tutorials/localization.html

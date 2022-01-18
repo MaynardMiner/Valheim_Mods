@@ -1,8 +1,8 @@
 ﻿{
   "name": "LightningMead",
   "description": "Creates a lightning resistance mead.",
-  "version_number": "0.0.1",
-  "website_url": "https://github.com/MaynardMiner/JotunnModStub/tree/mybranch",
+  "version_number": "0.0.2",
+  "website_url": "https://github.com/MaynardMiner/Valheim_Mods/tree/main/LightningMead",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.1502",
     "ValheimModding-Jotunn-2.4.7"
