@@ -95,10 +95,9 @@
     <EmbeddedResource Include="meadbase_light" />
     <EmbeddedResource Include="mead_light" />
     <None Include="packages.config" />
+    <None Include="Package\README.md" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Package\plugins\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="Package\manifest.json" />
   </ItemGroup>
